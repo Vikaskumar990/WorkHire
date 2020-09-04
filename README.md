@@ -1,4 +1,4 @@
-# WorkHire
+
 This website is made using PHP(Framework) Codeigniter , HTML,
 CSS ,Bootstrap and jquery for Front and PHPMyAdmin as a database
 which provide to allows anyone to work / job is one where a person
